@@ -1,0 +1,3 @@
+/home/byrfan/proj/calculator/build/CMakeFiles/calculator.dir
+/home/byrfan/proj/calculator/build/CMakeFiles/edit_cache.dir
+/home/byrfan/proj/calculator/build/CMakeFiles/rebuild_cache.dir
